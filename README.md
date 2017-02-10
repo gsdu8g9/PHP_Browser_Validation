@@ -19,7 +19,7 @@ This code is provided under the MIT License, for more information visit the LICE
 **Contact & Links**
 ------
 If you need help installing the code or have any questions/problems just let me know via email, and to see a live running version of the code head over to my website to try it out.
-<ul><li><b>Contact Email</b> - <a href="mailto:joe_currie@icloud.com">joe_currie@icloud.com</a></li></ul>
+<ul><li><b>Contact Email</b> - <a href="mailto:joe@yovee.uk">joe@yovee.uk</a></li></ul>
 
 **Upcoming changes**
 ------
