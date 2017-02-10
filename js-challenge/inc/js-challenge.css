@@ -1,0 +1,51 @@
+html, body {
+    margin:0px;
+    padding:0px;
+    border:0px;
+    background-color:#F7F7F7;
+    height:100%;
+	width:100%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#outer{
+    height:100%;
+    width:100%;
+    display:table;
+    vertical-align:middle;
+}
+#container {
+    text-align: center;
+    position:relative;
+    vertical-align:middle;
+    display:table-cell;
+} 
+#inner {
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+#portcdn_notify {
+    display:none;
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    cursor:default;
+}
+#portcdn_title {
+    font-size:36px;
+    font-weight:bold;
+    cursor:default;
+}
+#portcdn_sub {
+    font-size:18px;
+    cursor:default;
+}
+#circle_loader {
+    cursor:default;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    width:150px;
+    height:150px;
+}
