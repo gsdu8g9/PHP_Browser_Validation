@@ -16,9 +16,9 @@ I'd strongly recommend moving the CSS and JavaScript files to a CDN and/or inclu
 ------
 This code is provided under the MIT License, for more information visit the LICENSE file in this repository.
 
-**Contact & Links**
+**Contact Information**
 ------
-If you need help installing the code or have any questions/problems just let me know via email, and to see a live running version of the code head over to my website to try it out.
+If you need help installing the code or have any questions/problems just let me know via email.
 <ul><li><b>Contact Email</b> - <a href="mailto:joe@yovee.uk">joe@yovee.uk</a></li></ul>
 
 **Upcoming changes**
